@@ -6,16 +6,16 @@ category: info
 docname: draft-ietf-mboned-dorms-latest
 v: 3
 ipr: trust200902
-area: OPS
-workgroup: MBONED
+area: "Operations and Management"
+workgroup: "MBONE Deployment"
 keyword: Internet-Draft
 venue:
-  group: WG
-  type: Working Group
-  mail: mboned@ietf.org
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "MBONE Deployment"
+  type: "Working Group"
+  mail: "mboned@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/mboned/"
+  github: "GrumpyOldTroll/draft-ietf-mboned-dorms-cluster"
+  latest: "https://GrumpyOldTroll.github.io/draft-ietf-mboned-dorms-cluster/draft-ietf-mboned-dorms.html"
 
 stand_alone: yes
 smart_quotes: no
